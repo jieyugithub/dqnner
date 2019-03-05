@@ -1,0 +1,100 @@
+############################################################################################# AKWS1News
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News AdaBoostM1           7011 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News Bagging              7021 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News DT_J48               7031 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News LogisticRegression   7041 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News MultilayerPerceptron 7051 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News NaiveBayes           7061 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News RandomForest         7071 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News SVM_LibSVM           7081 20181005-04-gaze,pos_ctx1-filter 237
+
+############################################################################################# CoNLLTest_R 20181005-04-gaze,pos_ctx1-filter
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R AdaBoostM1           7111 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R Bagging              7121 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R DT_J48               7131 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R LogisticRegression   7141 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R MultilayerPerceptron 7151 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R NaiveBayes           7161 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R RandomForest         7171 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R SVM_LibSVM           7181 20181005-04-gaze,pos_ctx1-filter 237
+
+############################################################################################# IEER
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER AdaBoostM1           7211 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER Bagging              7221 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER DT_J48               7231 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER LogisticRegression   7241 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER MultilayerPerceptron 7251 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER NaiveBayes           7261 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER RandomForest         7271 20181005-04-gaze,pos_ctx1-filter 237
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER SVM_LibSVM           7281 20181005-04-gaze,pos_ctx1-filter 237
+
+############################################################################################# Ontonotes_EN_Sub_R
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R AdaBoostM1           7301
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R Bagging              7302
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R DT_J48               7303
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R LogisticRegression   7304
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R MultilayerPerceptron 7305
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R NaiveBayes           7306
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R RandomForest         7307
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R SVM_LibSVM           7308
+

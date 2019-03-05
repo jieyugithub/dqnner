@@ -1,0 +1,118 @@
+############################################################################################# AKWS1News
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News Bagging              29021 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 9686 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News DT_J48               29031 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 9686 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News LogisticRegression   29041 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 9686 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News MultilayerPerceptron 29051 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 9686 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News NaiveBayes           29061 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 9686 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News RandomForest         29071 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 9686 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News SVM_LibSVM           29081 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 9686 NER_SIA
+
+############################################################################################# CoNLLTest_R
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R Bagging              29121 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 4863 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R DT_J48               29131 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 4863 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R LogisticRegression   29141 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 4863 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R MultilayerPerceptron 29151 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 4863 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R NaiveBayes           29161 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 4863 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R RandomForest         29171 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 4863 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_R SVM_LibSVM_RBF       29181 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 4863 NER_SIA
+
+############################################################################################# CoNLL
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLL Bagging              29421 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 16484 NER_SIA
+ok
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLL DT_J48               29431 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 16484 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLL MultilayerPerceptron 29451 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 16484 NER_SIA
+
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLL LogisticRegression   29441 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 16484 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLL NaiveBayes           29461 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 16484 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLL RandomForest         29471 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 16484 NER_SIA
+
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLL SVM_LibSVM_RBF       29481 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 16484 NER_SIA
+
+############################################################################################# IEER
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER AdaBoostM1           29211 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 2137 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER Bagging              29221 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 2137 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER DT_J48               29231 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 2137 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER LogisticRegression   29241 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 2137 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER MultilayerPerceptron 29251 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 2137 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER NaiveBayes           29261 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 2137 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER RandomForest         29271 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 2137 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh IEER SVM_LibSVM           29281 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 2137 NER_SIA
+
+############################################################################################# Ontonotes_EN_Sub_R
+################ PC 1
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R Bagging              29321 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 11054 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R DT_J48               29331 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 11054 NER_SIA
+
+################ NB
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R LogisticRegression   29341 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 11054 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R MultilayerPerceptron 29351 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 11054 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R NaiveBayes           29361 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 11054 NER_SIA
+
+################ PC 2
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R RandomForest         29371 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 11054 NER_SIA
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R SVM_LibSVM           29381 20190107-11-T7-Pse-Pctx1-CIS-qs1-diff1-overlap1 405 11054 NER_SIA

@@ -1,0 +1,69 @@
+############################################################################################# AKWS1News_E
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News_E Bagging              49021 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 9925 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News_E DT_J48               49031 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 9925 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News_E RandomForest         49071 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 9925 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News_E SVM_LibSVM_RBF       49081 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 9925 NER_SIA 20 20 0.8
+
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News_E LogisticRegression   49041 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 9925 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News_E NaiveBayes           49061 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 9925 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh AKWS1News_E MultilayerPerceptron 49051 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 9925 NER_SIA 20 20 0.8
+
+############################################################################################# CoNLLTest_RR
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_RR Bagging              49121 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 5618 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_RR DT_J48               49131 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 5618 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_RR RandomForest         49171 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 5618 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_RR SVM_LibSVM_RBF       49181 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 5618 NER_SIA 20 20 0.8
+
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_RR LogisticRegression   49141 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 5618 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh CoNLLTest_RR NaiveBayes           49161 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 5618 NER_SIA 20 20 0.8
+
+#cd ~/dqnner/Code/code/dqn
+#./run_cpu.sh CoNLLTest_RR MultilayerPerceptron 39151 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 5618 NER_SIA 20 20 0.8
+
+############################################################################################# Ontonotes_EN_Sub_R
+################ PC 1
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R Bagging              49321 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 11317 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R DT_J48               49331 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 11317 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R RandomForest         49371 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 11317 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R SVM_LibSVM_RBF       49381 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 11317 NER_SIA 20 20 0.8
+
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R LogisticRegression   49341 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 11317 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R NaiveBayes           49361 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 11317 NER_SIA 20 20 0.8
+
+cd ~/dqnner/Code/code/dqn
+./run_cpu.sh Ontonotes_EN_Sub_R MultilayerPerceptron 49351 20190113-18-T7-Pse-Pctx1-20-20-PartTag1-EO1-DEMO 423 11317 NER_SIA 20 20 0.8
